@@ -1,6 +1,6 @@
-# pwmdocker_aotu
+# pwmdocker_auto
 
-完善了skysider/pwndocker 的pwndocker 添加了 python2 的pwntools ==4.0.2
+完善了skysider/pwndocker 的pwndocker 添加了 python2 的pwntools==4.0.1
 
 自动布置 脚本
 
